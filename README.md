@@ -14,6 +14,15 @@ I used followed methods<br>
 
 
 ## Results
+<br>
+
+|                | Result  |
+|----------------|---------|
+| Test Accuracy  | 80.44 % |
+| Test AUC       | 0.878   |
+| Test Precision | 0.862   |
+| Test Recall    | 0.735   |
+
 * Graphs
   
 ![__results___15_1](https://github.com/john-fante/down-syndrome-detection/assets/50263592/31faee4b-1e83-49e5-9ac4-e9827faf4c16)
